@@ -1,2 +1,22 @@
-
-/* Your CSS Code here. */
+.header{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap: wrap;
+}
+.one{
+	height:40px;
+	width:40px;
+	border: 2px solid black;
+}
+#one{
+	background-color:red;
+}
+#two{
+	background-color:blue;
+}
+#three{
+	background-color:pink;
+}
+#four{
+	background-color:green;
+}
